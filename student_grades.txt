@@ -1,0 +1,5 @@
+Alice: 84.33
+Bob: 75.67
+Charlie: 91.67
+Diana: 75.00
+Eve: 87.67
